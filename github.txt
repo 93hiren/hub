@@ -1,0 +1,54 @@
+GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project.[3]
+
+GitHub offers both plans for private and free repositories on the same account[4] which are commonly used to host open-source software projects.[5] As of April 2016, GitHub reports having more than 14 million users and more than 35 million repositories,[6] making it the largest host of source code in the world.[7]
+
+The trademark mascot of GitHub is Octocat, an anthropomorphized cat with cephalopod limbs.[
+Development of the GitHub platform began on 1 October 2007.[9][10] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett after it had been made available for a few months prior as a beta release.[11]
+
+Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. Multiple desktop clients and Git plugins have also been created by GitHub and other third parties that integrate with the platform.
+
+The site provides social networking-like functions such as feeds, followers, wikis (using wiki software called Gollum) and a social network graph to display how developers work on their versions ("forks") of a repository and what fork (and branch within that fork) is newest.
+
+A user must create an account in order to contribute content to the site, but public repositories can be browsed and downloaded by anyone. With a registered user account, users are able to discuss, manage, create repositories, submit contributions to others' repositories, and review changes to code.
+
+The software that runs GitHub was written using Ruby on Rails and Erlang by GitHub, Inc. developers Chris Wanstrath,[12] PJ Hyett, and Tom Preston-Werner.
+
+Scope[edit]
+
+GitHub is mostly used for code.
+
+In addition to source code, GitHub supports the following formats and features:
+Documentation, including automatically rendered README files in a variety of Markdown-like file formats (see README files on GitHub)
+Issue tracking (including feature requests) with labels, milestones, assignees and a search engine.
+Wikis
+Pull requests with code review and comments.
+Commits history.
+Graphs: pulse, contributors, commits, code frequency, punch card, network, members.
+Integrations Directory[13]
+Unified and split diffs.
+Email notifications.
+Option to subscribe someone to notifications by @ mentioning them.[14]
+Emojis[15]
+GitHub Pages: small websites can be hosted from public repositories on GitHub. The URL format is http://username.github.io.[1]
+Nested task-lists within files
+Visualization of geospatial data
+3D render files that can be previewed using a new integrated STL file viewer that displays the files on a "3D canvas".[16] The viewer is powered by WebGL and Three.js.
+Photoshop's native PSD format can be previewed and compared to previous versions of the same file.
+
+Licensing of repositories[edit]
+
+GitHub's Terms of Service do not require public software projects hosted on GitHub to meet the Open Source Definition. For that reason, it is advisable for users and developers intending to use a piece of software found on GitHub to read the software license in the repository (usually found in a top-level file called "LICENSE", "LICENSE.txt", or similar) to determine if it meets their needs[citation needed]. The Terms of Service state, "By setting your repositories to be viewed publicly, you agree to allow others to view and fork your repositories."[17]
+
+GitHub Enterprise[edit]
+
+GitHub Enterprise is similar to GitHub's public service but is designed for use by large-scale enterprise software development teams where the enterprise wishes to host their repositories behind a corporate firewall.[18]
+
+Gist[edit]
+
+GitHub also operates other services: a pastebin-style site called Gist[11] that is for hosting code snippets (GitHub proper is for hosting larger projects), and a slide hosting service called Speaker Deck.
+
+Tom Preston-Werner presented the then-new Gist feature at a punk rock Ruby conference in 2008.[19] Gist builds on the traditional simple concept of a pastebin by adding version control for code snippets, easy forking, and SSL encryption for private pastes. Because each "gist" has its own Git repository, multiple code snippets can be contained in a single paste and they can be pushed and pulled using Git. Further, forked code can be pushed back to the original author in the form of a patch, so gists (pastes) can become more like mini-projects.
+
+Education program[edit]
+
+GitHub launched a new program called the GitHub Student Developer Pack to give students free access to popular development tools and services. GitHub partnered with Bitnami, Crowdflower, DigitalOcean, DNSimple, HackHands, Namecheap, Orchestrate, Screenhero, SendGrid, Stripe, Travis CI and Unreal Engine to launch the program.[20]
